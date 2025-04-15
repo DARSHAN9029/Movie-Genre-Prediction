@@ -49,3 +49,10 @@ Split into:
 5. Evaluate with accuracy and confusion matrix
 6. Use model to predict genres from new movie descriptions
 
+## 🛠 How to Run Locally
+
+1. **Clone the repo**
+
+   ```bash
+   git clone https://github.com/DARSHAN9029/Movie-Genre-Prediction.git
+   cd Movie-Genre-Prediction
