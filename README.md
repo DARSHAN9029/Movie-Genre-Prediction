@@ -49,6 +49,14 @@ Split into:
 5. Evaluate with accuracy and confusion matrix
 6. Use model to predict genres from new movie descriptions
 
+---
+
+## Screenshot of workflow 
+
+![Screenshot 2025-04-15 231537](https://github.com/user-attachments/assets/d67a31db-3c0c-4220-9976-3048c9615c87)
+
+---
+
 ## 🛠 How to Run Locally
 
 1. **Clone the repo**
